@@ -1,3 +1,11 @@
+-- Correcting a wrong value
+
+
+UPDATE line_score
+SET pts_qtr1_away = 20
+WHERE game_id = 25400268
+
+
 -- Removing All-Star Games to exclude them from the analysis
 
 
