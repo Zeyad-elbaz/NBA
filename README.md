@@ -50,9 +50,9 @@ As mentioned above, there were massive number of incidents where a team has won 
 - Detriot Pistons VS Chicago Bulls (1985), Won by **17**
 
 **Top 3 (Away teams):**\
-- Detroit Pistons \@ Portland Trail Blazers (2015), Won by 17\
-- Boston Celtics \@ Cleveland Cavaliers (2000), Won by 15\
-- Toronto Raptors \@ Los Angeles Lakers (2018), Won by 14
+- Detroit Pistons \@ Portland Trail Blazers (2015), Won by **17**\
+- Boston Celtics \@ Cleveland Cavaliers (2000), Won by **15**\
+- Toronto Raptors \@ Los Angeles Lakers (2018), Won by **14**
 
 ------------------------------------------------------------------------
 
