@@ -16,7 +16,7 @@ This project aims at generating some uncommon stats that is not commonly referre
 
 > **Note:** Data was clean and transformed during the analysis with regard to every question. See the `/sql/` folder for the full transformation steps.
 
-[Script for data manipulation done](sql/Data_cleaning.sql)
+[Script for data manipulation done](SQL/Data_cleaning.sql)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ While it is not very uncommon to win a game while losing 3 of the 4 quarters, th
 
 #### SQL Script:
 
-[SQL script for question 1](sql/Question_1.sql)
+[SQL script for question 1](SQL/Question_1.sql)
 
 #### Results:
 
@@ -69,7 +69,7 @@ Good ball movement is crucial for winning, but that was an attempt to explore wh
 
 #### SQL Script:
 
-[SQL script for question 2](sql/Question_2.sql)
+[SQL script for question 2](SQL/Question_2.sql)
 
 #### Results:
 
@@ -100,7 +100,7 @@ Sometimes a team have an outlier quarter performance, either in a good or disapp
 
 #### SQL Script:
 
-[SQL script for question 3](sql/Question_3.sql)
+[SQL script for question 3](SQL/Question_3.sql)
 
 #### Results:
 
